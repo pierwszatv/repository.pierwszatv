@@ -14,8 +14,8 @@
     <summary lang="en"></summary>
   </extension>
 </addon>
-<addon id="repository.pierwszatv" name="PierwszaTV Kodi Addon" version="1.0.0" provider-name="piotrekcrash">
-	<extension point="xbmc.addon.repository" name="ddurdle's XBMC Addon Repository">
+<addon id="repository.pierwszatv" name="PierwszaTV repository" version="1.0.0" provider-name="piotrekcrash">
+	<extension point="xbmc.addon.repository" name="PierwszaTV Kodi Addon Repository">
 		<info compressed="false">https://raw.github.com/pierwszatv/repository.pierwszatv/master/addons.xml</info>
 		<checksum>https://raw.github.com/pierwszatv/repository.pierwszatv/master/addons.xml.md5</checksum>
 		<datadir zip="true">http://dmdsoftware.net/repository.ddurdle/</datadir>
