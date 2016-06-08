@@ -18,7 +18,7 @@
 	<extension point="xbmc.addon.repository" name="PierwszaTV Kodi Addon Repository">
 		<info compressed="false">https://raw.github.com/pierwszatv/repository.pierwszatv/master/addons.xml</info>
 		<checksum>https://raw.github.com/pierwszatv/repository.pierwszatv/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.github.com/pierwszatv/repository.pierwszatv/master/</datadir>
+		<datadir zip="true">http://pierwsza.tv/kodi/addon/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Zainstaluj PierwszaTV Addon</summary>
