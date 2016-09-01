@@ -14,18 +14,17 @@
 		<summary lang="en"></summary>
 	</extension>
 </addon>
-<addon id="plugin.video.test" name="Test TV" version="1.0.1" provider-name="piotrekcrash">
+<addon id="plugin.video.example" version="2.0.1" name="Example Kodi Video Plugin" provider-name="Roman_V_M">
 	<requires>
-		<import addon="xbmc.python" version="2.14.0"/>
+		<import addon="xbmc.python" version="2.24.0"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="main.py">
 		<provides>video</provides>
 	</extension>
-	<!--<extension point="xbmc.service" library="service.py" start="startup" /> -->
 	<extension point="xbmc.addon.metadata">
-		<description>TestTV Plugin</description>
-		<platform>all</platform>
-		<summary lang="en"></summary>
+		<summary lang="en">Example Kodi Video Plugin</summary>
+		<description lang="en">An example video plugin for Kodi mediacenter.</description>
+		<disclaimer lang="en">Free sample videos are provided by www.vidsplay.com.</disclaimer>
 	</extension>
 </addon>
 <addon id="repository.pierwszatv" name="PierwszaTV repository" version="1.0.0" provider-name="piotrekcrash">
