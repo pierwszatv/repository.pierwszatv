@@ -14,7 +14,7 @@
 		<summary lang="en"></summary>
 	</extension>
 </addon>
-<addon id="plugin.video.example" version="2.0.1" name="Example Kodi Video Plugin" provider-name="Roman_V_M">
+<addon id="plugin.video.example" version="2.0.2" name="Example Kodi Video Plugin" provider-name="Roman_V_M">
 	<requires>
 		<import addon="xbmc.python" version="2.24.0"/>
 	</requires>
